@@ -1,1 +1,1 @@
-# pythonAutomation
+# Repository for Python automation
