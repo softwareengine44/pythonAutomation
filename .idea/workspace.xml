@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5d8262c-05b7-4264-80f4-9f29f2202bb3" name="Changes" comment="add Firefox property and fix errors">
+    <list default="true" id="f5d8262c-05b7-4264-80f4-9f29f2202bb3" name="Changes" comment="extract methods to the separate rows">
+      <change afterPath="$PROJECT_DIR$/group.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test_add_group.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_add_group.py" afterDir="false" />
     </list>
@@ -12,6 +13,13 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -110,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678160228107</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="extract methods to the separate rows">
+      <created>1678219699965</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1678219699965</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -118,6 +133,7 @@
     <MESSAGE value="7 default files commit" />
     <MESSAGE value="add Katalon file" />
     <MESSAGE value="add Firefox property and fix errors" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Firefox property and fix errors" />
+    <MESSAGE value="extract methods to the separate rows" />
+    <option name="LAST_COMMIT_MESSAGE" value="extract methods to the separate rows" />
   </component>
 </project>
