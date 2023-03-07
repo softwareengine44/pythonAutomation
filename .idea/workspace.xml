@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5d8262c-05b7-4264-80f4-9f29f2202bb3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="f5d8262c-05b7-4264-80f4-9f29f2202bb3" name="Changes" comment="7 default files commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +52,26 @@
       <option name="presentableId" value="Default" />
       <updated>1678134750018</updated>
     </task>
+    <task id="LOCAL-00001" summary="Review initial description">
+      <created>1678135234744</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678135234744</updated>
+    </task>
+    <task id="LOCAL-00002" summary="7 default files commit">
+      <created>1678135360810</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678135360810</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Review initial description" />
+    <MESSAGE value="7 default files commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="7 default files commit" />
   </component>
 </project>
