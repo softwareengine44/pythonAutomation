@@ -1,11 +1,7 @@
 # -*- coding: utf-8 -*-
 import pytest
-import unittest
-from selenium.common.exceptions import NoSuchElementException
-from selenium.common.exceptions import NoAlertPresentException
-import unittest, time, re
-from group import Group
-from application import Application
+from model.group import Group
+from fixture.application import Application
 
 @pytest.fixture
 def app(request):

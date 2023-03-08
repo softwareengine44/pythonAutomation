@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5d8262c-05b7-4264-80f4-9f29f2202bb3" name="Changes" comment="extract methods to the separate rows">
-      <change afterPath="$PROJECT_DIR$/application.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_add_group.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_add_group.py" afterDir="false" />
+    <list default="true" id="f5d8262c-05b7-4264-80f4-9f29f2202bb3" name="Changes" comment="add fixture and apply pytest">
+      <change afterPath="$PROJECT_DIR$/test/__init__.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +62,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_add_group.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test/test_add_group.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
@@ -125,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678219699965</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add fixture and apply pytest">
+      <created>1678243963789</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1678243963789</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -134,6 +139,7 @@
     <MESSAGE value="add Katalon file" />
     <MESSAGE value="add Firefox property and fix errors" />
     <MESSAGE value="extract methods to the separate rows" />
-    <option name="LAST_COMMIT_MESSAGE" value="extract methods to the separate rows" />
+    <MESSAGE value="add fixture and apply pytest" />
+    <option name="LAST_COMMIT_MESSAGE" value="add fixture and apply pytest" />
   </component>
 </project>
